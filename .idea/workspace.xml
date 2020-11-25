@@ -34,6 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605915151974</updated>
       <workItem from="1605915153353" duration="642000" />
-      <workItem from="1606255667547" duration="8763000" />
+      <workItem from="1606255667547" duration="9072000" />
     </task>
     <task id="LOCAL-00001" summary="task: added navbar and carousel">
       <created>1606267898465</created>
@@ -119,18 +120,18 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="607" y="165" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606270001220" />
-    <state x="359" y="157" key="DiffContextDialog" timestamp="1606269835316">
+    <state x="359" y="157" width="1433" height="876" key="DiffContextDialog" timestamp="1606270598382">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="359" y="157" key="DiffContextDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606269835316" />
+    <state x="359" y="157" width="1433" height="876" key="DiffContextDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606270598382" />
     <state x="877" y="484" key="Github.ShareDialog" timestamp="1606268862649">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="877" y="484" key="Github.ShareDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606268862649" />
-    <state x="622" y="320" key="Vcs.Push.Dialog.v2" timestamp="1606269782504">
+    <state x="622" y="320" key="Vcs.Push.Dialog.v2" timestamp="1606270515579">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="622" y="320" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606269782504" />
+    <state x="622" y="320" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606270515579" />
     <state x="578" y="136" width="889" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606268815911">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
