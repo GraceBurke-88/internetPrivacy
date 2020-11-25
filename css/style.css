@@ -110,7 +110,7 @@ p{
 .carousel-caption{
     font-family: serif ;
     text-align: center;
-    min-height: 1050px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+    min-height: 450px;
 }
 .jumbotron {
     background-color: lightgray;
