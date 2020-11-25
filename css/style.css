@@ -90,8 +90,7 @@ p{
 }
 .card {
     border: 5px whitesmoke;
-    padding: 13px;
-    display:inline-block;
+    padding: 15px;
 }
 .card-title{
     font-family: serif;
