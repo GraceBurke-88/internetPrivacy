@@ -1,3 +1,13 @@
+.navbar-brand {
+    font-family: serif;
+}
+.nav-link{
+    font-family: serif;
+
+}
+.dropdown-item{
+    font-family: serif;
+}
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 22px;
@@ -64,23 +74,27 @@ h3 {
 }
 
 h4 {
-    font-size: 28px;
-    line-height: 37px;
+    font-size: 38px;
+    line-height: 20px;
     font-weight: bold;
     margin-bottom: 5px;
 }
 h5 {
     font-size: 20px;
     line-height: 35px;
-    font-weight: bold;
+    font-weight: normal;
     margin-bottom: 5px;
 }
+p{
+    font-family: serif;
+}
 .card {
-    border: 2px solid black;
-    padding-top: 13px;
-    padding-left: 13px;
-    padding-right: 13px;
-    padding-bottom: 13px;
+    border: 5px whitesmoke;
+    padding: 13px;
+    display:inline-block;
+}
+.card-title{
+    font-family: serif;
 }
 .center {
     display: block;
@@ -89,14 +103,18 @@ h5 {
     width: 100%;
 }
 
- #carousel
+ .carousel
 {
      background: #2f4357;
-     margin-top: 0px;
  }
-#carousel-caption{
-    font-size: 45;
-    font-family: "Helvetica" ;
-    text-align: left;
-    min-height: 450px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+.carousel-caption{
+    font-family: serif ;
+    text-align: center;
+    min-height: 1050px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.jumbotron {
+    background-color: lightgray;
+}
+.card {
+    background-color: lightgray;
 }
