@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14126b1a-fa03-4486-9dec-348a81b4e1b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_3385.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606272461582</updated>
-      <workItem from="1606272462619" duration="15892000" />
+      <workItem from="1606272462619" duration="17098000" />
     </task>
     <task id="LOCAL-00001" summary="task: merging branches">
       <created>1606272699970</created>
@@ -138,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606319174135</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task: added banner and cards to about.html">
+      <created>1606323742332</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606323742332</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,18 +164,19 @@
     <MESSAGE value="task: edited spacing and margins on homepage" />
     <MESSAGE value="bug: fixing CSS style sheet to span across entire homepage" />
     <MESSAGE value="task: added links to homepage and about" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: added links to homepage and about" />
+    <MESSAGE value="task: added banner and cards to about.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: added banner and cards to about.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="871" y="400" key="#Notifications" timestamp="1606272418211">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="871" y="400" key="#Notifications/0.25.1792.1095@0.25.1792.1095" timestamp="1606272418211" />
-    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1606319174037">
+    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1606323742234">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="700" y="0" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1606275275314" />
-    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606319174037" />
+    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606323742234" />
     <state x="359" y="120" key="DiffContextDialog" timestamp="1606274333460">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
