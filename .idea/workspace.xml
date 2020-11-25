@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="005c0989-ff20-4509-a4d3-7af185ae1afb" name="Default Changelist" comment="task: added navbar and carousel">
-      <change afterPath="$PROJECT_DIR$/images/hacking-2903156_1288.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hacking-2903156_1901.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hacking-2903156_1998.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hacking-2903156_1999.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homepage.html" afterDir="false" />
-    </list>
+    <list default="true" id="005c0989-ff20-4509-a4d3-7af185ae1afb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605915151974</updated>
       <workItem from="1605915153353" duration="642000" />
-      <workItem from="1606255667547" duration="7794000" />
+      <workItem from="1606255667547" duration="8079000" />
     </task>
     <task id="LOCAL-00001" summary="task: added navbar and carousel">
       <created>1606267898465</created>
@@ -65,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606267898465</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task: added navbar and carousel">
+      <created>1606269352051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606269352051</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,10 +82,10 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="941" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606259865536" />
-    <state x="607" y="165" key="CommitChangelistDialog2" timestamp="1606269013728">
+    <state x="607" y="165" key="CommitChangelistDialog2" timestamp="1606269351919">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="607" y="165" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606269013728" />
+    <state x="607" y="165" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606269351919" />
     <state x="401" y="157" key="DiffContextDialog" timestamp="1606268902869">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
@@ -94,10 +94,10 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="877" y="484" key="Github.ShareDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606268862649" />
-    <state x="622" y="320" key="Vcs.Push.Dialog.v2" timestamp="1606267907684">
+    <state x="622" y="320" key="Vcs.Push.Dialog.v2" timestamp="1606269480091">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="622" y="320" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606267907684" />
+    <state x="622" y="320" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606269480091" />
     <state x="578" y="136" width="889" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606268815911">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
