@@ -16,6 +16,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="GraceBurke-88" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kZjkXF1JzYsbbbCORlTk447qLs" />
@@ -49,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605915151974</updated>
       <workItem from="1605915153353" duration="642000" />
-      <workItem from="1606255667547" duration="8360000" />
+      <workItem from="1606255667547" duration="8763000" />
     </task>
     <task id="LOCAL-00001" summary="task: added navbar and carousel">
       <created>1606267898465</created>
@@ -79,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606269673500</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task: added navbar and carousel">
+      <created>1606269854487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606269854487</updated>
+    </task>
+    <task id="LOCAL-00006" summary="task: added navbar and carousel">
+      <created>1606270001291</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606270001291</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,14 +115,14 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="941" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606259865536" />
-    <state x="607" y="165" key="CommitChangelistDialog2" timestamp="1606269673408">
+    <state x="607" y="165" key="CommitChangelistDialog2" timestamp="1606270001220">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="607" y="165" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606269673408" />
-    <state x="401" y="157" key="DiffContextDialog" timestamp="1606268902869">
+    <state x="607" y="165" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606270001220" />
+    <state x="359" y="157" key="DiffContextDialog" timestamp="1606269835316">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="401" y="157" key="DiffContextDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606268902869" />
+    <state x="359" y="157" key="DiffContextDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606269835316" />
     <state x="877" y="484" key="Github.ShareDialog" timestamp="1606268862649">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
