@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14126b1a-fa03-4486-9dec-348a81b4e1b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Carolina Villa &lt;cjv9@njit.edu&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1klPyl2ynqJaxTQ2ohMvPGprick" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14126b1a-fa03-4486-9dec-348a81b4e1b9" name="Default Changelist" comment="" />
+      <created>1606272461582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606272461582</updated>
+      <workItem from="1606272462619" duration="2857000" />
+    </task>
+    <task id="LOCAL-00001" summary="task: merging branches">
+      <created>1606272699970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606272699970</updated>
+    </task>
+    <task id="LOCAL-00002" summary="task: adding Carolina's main pages">
+      <created>1606273404256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606273404256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task: adding Carolina's main pages, renaming index.html">
+      <created>1606275275391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606275275391</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="task: merging branches" />
+    <MESSAGE value="task: adding Carolina's main pages&#10;&#10;# Conflicts:&#10;#&#9;page-0.html&#10;#&#9;page-2.html&#10;#&#9;page-3.html&#10;#&#9;page-4.html&#10;#&#9;page-5.html&#10;#&#9;pg0.html&#10;#&#9;pg1&#10;#&#9;pg1.html&#10;#&#9;pg2&#10;#&#9;pg2.html&#10;#&#9;pg3&#10;#&#9;pg3.html&#10;#&#9;pg4&#10;#&#9;pg4.html&#10;#&#9;pg5&#10;#&#9;pg5.html" />
+    <MESSAGE value="task: adding Carolina's main pages" />
+    <MESSAGE value="task: adding Carolina's main pages, renaming index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: adding Carolina's main pages, renaming index.html" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="871" y="400" key="#Notifications" timestamp="1606272418211">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="871" y="400" key="#Notifications/0.25.1792.1095@0.25.1792.1095" timestamp="1606272418211" />
+    <state x="700" y="0" key="CommitChangelistDialog2" timestamp="1606275275314">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="700" y="0" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1606275275314" />
+    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606275086428" />
+    <state x="359" y="120" key="DiffContextDialog" timestamp="1606274333460">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="359" y="120" key="DiffContextDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606274333460" />
+    <state x="359" y="121" key="MergeDialog" timestamp="1606274223038">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="359" y="121" key="MergeDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606274223038" />
+    <state x="826" y="338" key="MultipleFileMergeDialog" timestamp="1606274223076">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="826" y="338" key="MultipleFileMergeDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606274223076" />
+    <state x="742" y="290" key="Vcs.Push.Dialog.v2" timestamp="1606275278575">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="742" y="290" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606275278575" />
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606275059712" />
+    <state x="989" y="476" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606275191923">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="989" y="476" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606275191923" />
+    <state x="989" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606275107523" />
+  </component>
+</project>
