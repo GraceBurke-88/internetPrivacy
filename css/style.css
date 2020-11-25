@@ -74,8 +74,8 @@ h3 {
 }
 
 h4 {
-    font-size: 28px;
-    line-height: 37px;
+    font-size: 38px;
+    line-height: 20px;
     font-weight: bold;
     margin-bottom: 5px;
 }
@@ -85,9 +85,16 @@ h5 {
     font-weight: normal;
     margin-bottom: 5px;
 }
+p{
+    font-family: serif;
+}
 .card {
-    border: 2px solid black;
+    border: 5px whitesmoke;
     padding: 13px;
+    display:inline-block;
+}
+.card-title{
+    font-family: serif;
 }
 .center {
     display: block;
@@ -101,8 +108,13 @@ h5 {
      background: #2f4357;
  }
 .carousel-caption{
-    font-size: 75;
     font-family: serif ;
-    text-align: left;
-    min-height: 950px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+    text-align: center;
+    min-height: 1050px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.jumbotron {
+    background-color: lightgray;
+}
+.card {
+    background-color: lightgray;
 }
