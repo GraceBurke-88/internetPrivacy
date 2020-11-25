@@ -1,3 +1,13 @@
+.navbar-brand {
+    font-family: serif;
+}
+.nav-link{
+    font-family: serif;
+
+}
+.dropdown-item{
+    font-family: serif;
+}
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 22px;
@@ -72,15 +82,12 @@ h4 {
 h5 {
     font-size: 20px;
     line-height: 35px;
-    font-weight: bold;
+    font-weight: normal;
     margin-bottom: 5px;
 }
 .card {
     border: 2px solid black;
-    padding-top: 13px;
-    padding-left: 13px;
-    padding-right: 13px;
-    padding-bottom: 13px;
+    padding: 13px;
 }
 .center {
     display: block;
@@ -89,14 +96,13 @@ h5 {
     width: 100%;
 }
 
- #carousel
+ .carousel
 {
      background: #2f4357;
-     margin-top: 0px;
  }
-#carousel-caption{
-    font-size: 45;
-    font-family: "Helvetica" ;
+.carousel-caption{
+    font-size: 75;
+    font-family: serif ;
     text-align: left;
-    min-height: 450px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+    min-height: 950px; /* Prevent carousel from being distorted if for some reason image doesn't load */
 }
