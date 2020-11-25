@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="005c0989-ff20-4509-a4d3-7af185ae1afb" name="Default Changelist" comment="" />
+    <list default="true" id="005c0989-ff20-4509-a4d3-7af185ae1afb" name="Default Changelist" comment="task: added navbar and carousel">
+      <change afterPath="$PROJECT_DIR$/images/hacking-2903156_1288.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hacking-2903156_1901.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hacking-2903156_1998.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hacking-2903156_1999.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homepage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kZjkXF1JzYsbbbCORlTk447qLs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +45,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="005c0989-ff20-4509-a4d3-7af185ae1afb" name="Default Changelist" comment="" />
@@ -42,17 +56,59 @@
       <option name="presentableId" value="Default" />
       <updated>1605915151974</updated>
       <workItem from="1605915153353" duration="642000" />
-      <workItem from="1606255667547" duration="6410000" />
+      <workItem from="1606255667547" duration="7794000" />
     </task>
+    <task id="LOCAL-00001" summary="task: added navbar and carousel">
+      <created>1606267898465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606267898465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="task: added navbar and carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: added navbar and carousel" />
   </component>
   <component name="WindowStateProjectService">
     <state x="941" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606259865536">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="941" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606259865536" />
+    <state x="607" y="165" key="CommitChangelistDialog2" timestamp="1606269013728">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="607" y="165" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606269013728" />
+    <state x="401" y="157" key="DiffContextDialog" timestamp="1606268902869">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="401" y="157" key="DiffContextDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606268902869" />
+    <state x="877" y="484" key="Github.ShareDialog" timestamp="1606268862649">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="877" y="484" key="Github.ShareDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606268862649" />
+    <state x="622" y="320" key="Vcs.Push.Dialog.v2" timestamp="1606267907684">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="622" y="320" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606267907684" />
+    <state x="578" y="136" width="889" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606268815911">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="578" y="136" width="889" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606268815911" />
+    <state x="860" y="378" key="svn.repositoryBrowser" timestamp="1606268815457">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="860" y="378" key="svn.repositoryBrowser/0.25.1792.1095@0.25.1792.1095" timestamp="1606268815457" />
+    <state x="800" y="361" key="svn4idea.import.options" timestamp="1606268811703">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="800" y="361" key="svn4idea.import.options/0.25.1792.1095@0.25.1792.1095" timestamp="1606268811703" />
   </component>
 </project>
