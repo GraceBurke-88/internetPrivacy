@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14126b1a-fa03-4486-9dec-348a81b4e1b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/esnowden.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/esnowden2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page0.html" beforeDir="false" afterPath="$PROJECT_DIR$/page0.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/page1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
@@ -66,7 +65,7 @@
       <updated>1606272461582</updated>
       <workItem from="1606272462619" duration="19892000" />
       <workItem from="1606327814413" duration="3294000" />
-      <workItem from="1606331986242" duration="20992000" />
+      <workItem from="1606331986242" duration="21611000" />
     </task>
     <task id="LOCAL-00001" summary="task: merging branches">
       <created>1606272699970</created>
@@ -299,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606361574036</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="task: Updating links across pages">
+      <created>1606363042903</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1606363042903</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +314,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="task: added about page" />
     <MESSAGE value="task: edited spacing and margins on homepage" />
     <MESSAGE value="bug: fixing CSS style sheet to span across entire homepage" />
     <MESSAGE value="task: added links to homepage and about" />
@@ -333,18 +338,19 @@
     <MESSAGE value="task: Fixed CSS style for text on page5.html" />
     <MESSAGE value="task: Fixed side navbar alignment" />
     <MESSAGE value="task: Added timeline" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: Added timeline" />
+    <MESSAGE value="task: Updating links across pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: Updating links across pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="871" y="400" key="#Notifications" timestamp="1606272418211">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="871" y="400" key="#Notifications/0.25.1792.1095@0.25.1792.1095" timestamp="1606272418211" />
-    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1606361573958">
+    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1606363042776">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="700" y="0" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1606341907836" />
-    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606361573958" />
+    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606363042776" />
     <state x="359" y="120" key="DiffContextDialog" timestamp="1606274333460">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
@@ -361,16 +367,16 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="122" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1606355562420" />
-    <state x="742" y="309" key="Vcs.Push.Dialog.v2" timestamp="1606361583915">
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2" timestamp="1606363052387">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="742" y="290" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606341918444" />
-    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606361583915" />
-    <state x="989" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606353976925">
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606363052387" />
+    <state x="989" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606363143989">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="989" y="476" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606275191923" />
-    <state x="989" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606353976925" />
+    <state x="989" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606363143989" />
     <state x="366" y="300" width="670" height="676" key="search.everywhere.popup" timestamp="1606279299001">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
