@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14126b1a-fa03-4486-9dec-348a81b4e1b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/page6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/esnowden.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/esnowden2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page0.html" beforeDir="false" afterPath="$PROJECT_DIR$/page0.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/page1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/page4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page5.html" beforeDir="false" afterPath="$PROJECT_DIR$/page5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page6.html" beforeDir="false" afterPath="$PROJECT_DIR$/page6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +66,7 @@
       <updated>1606272461582</updated>
       <workItem from="1606272462619" duration="19892000" />
       <workItem from="1606327814413" duration="3294000" />
-      <workItem from="1606331986242" duration="19408000" />
+      <workItem from="1606331986242" duration="20992000" />
     </task>
     <task id="LOCAL-00001" summary="task: merging branches">
       <created>1606272699970</created>
@@ -279,7 +285,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606354809929</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="task: Fixed side navbar alignment">
+      <created>1606361527636</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1606361527636</updated>
+    </task>
+    <task id="LOCAL-00033" summary="task: Added timeline">
+      <created>1606361574036</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1606361574036</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,8 +308,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="task: link to other pages from homepage" />
-    <MESSAGE value="task: edited carousel, ficed text formatting" />
     <MESSAGE value="task: added about page" />
     <MESSAGE value="task: edited spacing and margins on homepage" />
     <MESSAGE value="bug: fixing CSS style sheet to span across entire homepage" />
@@ -313,18 +331,20 @@
     <MESSAGE value="task: Added \formatting to page0.html" />
     <MESSAGE value="task: Added formatting to content pages" />
     <MESSAGE value="task: Fixed CSS style for text on page5.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: Fixed CSS style for text on page5.html" />
+    <MESSAGE value="task: Fixed side navbar alignment" />
+    <MESSAGE value="task: Added timeline" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: Added timeline" />
   </component>
   <component name="WindowStateProjectService">
     <state x="871" y="400" key="#Notifications" timestamp="1606272418211">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="871" y="400" key="#Notifications/0.25.1792.1095@0.25.1792.1095" timestamp="1606272418211" />
-    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1606354809859">
+    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1606361573958">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="700" y="0" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1606341907836" />
-    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606354809859" />
+    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1606361573958" />
     <state x="359" y="120" key="DiffContextDialog" timestamp="1606274333460">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
@@ -341,11 +361,11 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="122" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1606355562420" />
-    <state x="742" y="309" key="Vcs.Push.Dialog.v2" timestamp="1606354873235">
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2" timestamp="1606361583915">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="742" y="290" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606341918444" />
-    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606354873235" />
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1606361583915" />
     <state x="989" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606353976925">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
