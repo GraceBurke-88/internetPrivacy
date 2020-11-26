@@ -89,7 +89,7 @@ p{
     font-family: serif;
 }
 .card {
-    border: 5px whitesmoke;
+    border: 1px white;
     padding: 15px;
 }
 .card-title{
@@ -117,3 +117,7 @@ p{
 .card {
     background-color: lightgray;
 }
+
+
+
+
