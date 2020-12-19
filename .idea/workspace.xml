@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14126b1a-fa03-4486-9dec-348a81b4e1b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/undraw_startup_life_2du2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="14126b1a-fa03-4486-9dec-348a81b4e1b9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,14 +62,7 @@
       <workItem from="1608162900767" duration="7535000" />
       <workItem from="1608309434953" duration="635000" />
       <workItem from="1608339355638" duration="2178000" />
-      <workItem from="1608345694777" duration="10250000" />
-    </task>
-    <task id="LOCAL-00008" summary="task: added about page">
-      <created>1606281703099</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1606281703099</updated>
+      <workItem from="1608345694777" duration="10585000" />
     </task>
     <task id="LOCAL-00009" summary="task: edited spacing and margins on homepage">
       <created>1606281873123</created>
@@ -411,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608360464282</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="task: content for README.md">
+      <created>1608363638498</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1608363638498</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,11 +452,11 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="726" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1608354421875" />
-    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1608360464184">
+    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1608363638409">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="700" y="0" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1606366284023" />
-    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608360464184" />
+    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608363638409" />
     <state x="359" y="120" key="DiffContextDialog" timestamp="1606274333460">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
@@ -477,11 +473,11 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="122" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1606355562420" />
-    <state x="742" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608360473784">
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608363647764">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="742" y="290" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606366293742" />
-    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608360473784" />
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608363647764" />
     <state x="989" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608354120770">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
