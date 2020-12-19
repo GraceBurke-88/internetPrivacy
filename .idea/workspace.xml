@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="14126b1a-fa03-4486-9dec-348a81b4e1b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page0.html" beforeDir="false" afterPath="$PROJECT_DIR$/page0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/page1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/page4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page5.html" beforeDir="false" afterPath="$PROJECT_DIR$/page5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page6.html" beforeDir="false" afterPath="$PROJECT_DIR$/page6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page7.html" beforeDir="false" afterPath="$PROJECT_DIR$/page7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +42,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,35 +65,7 @@
       <workItem from="1608162900767" duration="7535000" />
       <workItem from="1608309434953" duration="635000" />
       <workItem from="1608339355638" duration="2178000" />
-      <workItem from="1608345694777" duration="7401000" />
-    </task>
-    <task id="LOCAL-00003" summary="task: adding Carolina's main pages, renaming index.html">
-      <created>1606275275391</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1606275275391</updated>
-    </task>
-    <task id="LOCAL-00004" summary="task: edits to carousel, background color">
-      <created>1606275923562</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1606275923562</updated>
-    </task>
-    <task id="LOCAL-00005" summary="task: link to other pages from homepage">
-      <created>1606277282680</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1606277282680</updated>
-    </task>
-    <task id="LOCAL-00006" summary="task: edited carousel, ficed text formatting">
-      <created>1606278879229</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1606278879229</updated>
+      <workItem from="1608345694777" duration="9628000" />
     </task>
     <task id="LOCAL-00007" summary="task: edited carousel, ficed text formatting">
       <created>1606278984907</created>
@@ -420,7 +382,35 @@
       <option name="project" value="LOCAL" />
       <updated>1608356896915</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="bug: fixed cards">
+      <created>1608358154312</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1608358154313</updated>
+    </task>
+    <task id="LOCAL-00053" summary="task: added favicon">
+      <created>1608358279945</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1608358279945</updated>
+    </task>
+    <task id="LOCAL-00054" summary="task: added beforevsafter pdf">
+      <created>1608359134507</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1608359134507</updated>
+    </task>
+    <task id="LOCAL-00055" summary="task: added footer">
+      <created>1608359500798</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1608359500798</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,9 +419,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="task: added link and text to page 4" />
-    <MESSAGE value="task: Changing css text design on page 4" />
-    <MESSAGE value="task: Change to box designs on page 4" />
     <MESSAGE value="task: Edits made to cards on about page" />
     <MESSAGE value="task: Text added to page 3" />
     <MESSAGE value="task: Links added to page 3, page formatting" />
@@ -454,7 +441,10 @@
     <MESSAGE value="bug: added image to team page" />
     <MESSAGE value="bug: added content to about page" />
     <MESSAGE value="bug: fixed cards" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug: fixed cards" />
+    <MESSAGE value="task: added favicon" />
+    <MESSAGE value="task: added beforevsafter pdf" />
+    <MESSAGE value="task: added footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: added footer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="871" y="400" key="#Notifications" timestamp="1606272418211">
@@ -465,11 +455,11 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="726" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1608354421875" />
-    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1608356896801">
+    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1608359500670">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="700" y="0" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1606366284023" />
-    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608356896801" />
+    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608359500670" />
     <state x="359" y="120" key="DiffContextDialog" timestamp="1606274333460">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
@@ -486,11 +476,11 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="122" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1606355562420" />
-    <state x="742" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608356907666">
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608359147493">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="742" y="290" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606366293742" />
-    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608356907666" />
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608359147493" />
     <state x="989" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608354120770">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
