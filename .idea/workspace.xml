@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14126b1a-fa03-4486-9dec-348a81b4e1b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/undraw_Cloud_docs_re_xjht.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/undraw_Domain_names_re_0uun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/undraw_startup_life_2du2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
@@ -45,8 +48,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,14 +71,7 @@
       <workItem from="1608162900767" duration="7535000" />
       <workItem from="1608309434953" duration="635000" />
       <workItem from="1608339355638" duration="2178000" />
-      <workItem from="1608345694777" duration="4791000" />
-    </task>
-    <task id="LOCAL-00001" summary="task: merging branches">
-      <created>1606272699970</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1606272699970</updated>
+      <workItem from="1608345694777" duration="6072000" />
     </task>
     <task id="LOCAL-00002" summary="task: adding Carolina's main pages">
       <created>1606273404256</created>
@@ -413,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608354203171</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="bug: added content to about page">
+      <created>1608355495451</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1608355495452</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,7 +425,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="task: added footer to pages" />
     <MESSAGE value="task: added text and formatting to page 4" />
     <MESSAGE value="task: added link and text to page 4" />
     <MESSAGE value="task: Changing css text design on page 4" />
@@ -447,7 +449,8 @@
     <MESSAGE value="bug: fixed headers" />
     <MESSAGE value="bug: added about page and content" />
     <MESSAGE value="bug: added image to team page" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug: added image to team page" />
+    <MESSAGE value="bug: added content to about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug: added content to about page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="871" y="400" key="#Notifications" timestamp="1606272418211">
@@ -458,11 +461,11 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="726" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1608354421875" />
-    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1608354203085">
+    <state x="700" y="25" key="CommitChangelistDialog2" timestamp="1608355495328">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="700" y="0" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1606366284023" />
-    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608354203085" />
+    <state x="700" y="25" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608355495328" />
     <state x="359" y="120" key="DiffContextDialog" timestamp="1606274333460">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
@@ -479,11 +482,11 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="122" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1606355562420" />
-    <state x="742" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608354213665">
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608355504251">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="742" y="290" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606366293742" />
-    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608354213665" />
+    <state x="742" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608355504251" />
     <state x="989" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608354120770">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
